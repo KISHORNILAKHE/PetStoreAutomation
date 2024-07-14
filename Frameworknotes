@@ -1,0 +1,83 @@
+Objectives
+-------------
+1) Re-usability
+2) Maintanability
+3) Readability
+
+
+ Hybrid Driven
+
+
+
+
+Phases 
+----------
+
+1) Understanding requirement
+    - Functional specifications(static)
+    -swagger
+
+2) choose automation tool- Rest Assured Library
+
+3) Design
+4) Development
+5) Execution + CI      
+
+
+
+@Test
+
+
+void test(){
+//Pre-re
+//request type
+// response validation
+
+}
+
+
+----------------------------------
+Pre-requisites
+
+step 1 : Create Maven Project
+step 2 : update pom.xml with required dependencies
+
+Step 3 : Create folder structure
+
+----------------------------------------------
+
+Step 4 : Create Routes.java --------> contains URL's 
+
+Step 5 : Create UserEndPoints.java ------> CRUD methods implementation 
+Step 6 : Create test cases
+
+Step 7 : Create data driven test 
+
+         excel sheet data
+         ExcelUtility
+         
+         Dataproviders
+         
+--------------------------------------------------------    
+
+
+step 8 : Generate extent report
+        Extent report utility
+        tesng.xml file 
+-----------------------------------------------------------
+
+Step 9 :Add logs 
+       log4j2 dependency
+       log4j2.xml
+       
+               
+        
+        
+        
+
+
+
+          
+      
+
+
